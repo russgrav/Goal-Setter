@@ -1,1 +1,1 @@
-React application for setting goals.
+MERN stack application for setting goals.
